@@ -1,4 +1,4 @@
-# `CRVError001` _EndNewLineError_
+# `CRVError002` _NameError_
 
 在使用播放器播放出现 __未被定义的变量__ 的文件时，通常会出现这个错误。
 
