@@ -10,7 +10,7 @@
 
 ```
 CRVError002：NameError位于line ~,
-访问https://github.com/CunMinRailwayCode/Vectorvideo-CRV/edit/main/ErrorDoc/CRVError002查看更多。
+访问https://github.com/CunMinRailwayCode/Vectorvideo-CRV/edit/main/ErrorDoc/CRVError002.md查看更多。
 （具体的错误行代码以及前一行代码）
 ```
 
@@ -31,7 +31,7 @@ a
 
 ```
 CRVError002：NameError位于line ~,
-访问https://github.com/CunMinRailwayCode/Vectorvideo-CRV/edit/main/ErrorDoc/CRVError002查看更多。
+访问https://github.com/CunMinRailwayCode/Vectorvideo-CRV/edit/main/ErrorDoc/CRVError002.md查看更多。
 a
 ^
 未定义该变量
